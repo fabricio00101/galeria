@@ -1,5 +1,10 @@
 
+---
+
 ### 3️⃣ galeria
+
+```markdown
+# Galería Web
 
 # Galería Web
 
